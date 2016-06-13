@@ -1,0 +1,1 @@
+Note: The KEY is located in Strings.xml
